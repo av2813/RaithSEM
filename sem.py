@@ -83,8 +83,8 @@ def read_raithfile(folder, file_im, file_meta, image_shape = (4000,4000,1)):
     '''
     path_im = os.path.join(folder, file_im)
     path_meta = os.path.join(folder, file_meta)
-    print(path_im)
-    print(path_meta)
+    #print(path_im)
+    #print(path_meta)
     
     # Read the image file
     image = read_bmp(path_im,image_shape)
