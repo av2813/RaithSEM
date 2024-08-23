@@ -83,13 +83,13 @@ plt.show()
 ```
 
 ### Example images
-![The original raw bitmap](Example/IMAGE421.bmp)
+![The original raw image](Example/main_image.png)
 
-![The original raw bitmap](Example/main_image.png)
+![Thresholded image](Example/binary_image.png)
 
-![Thresholded images](Example/binary_image.png)
+![Fitting of ellipses bounding](Example/bound_image.png)
 
-
+![Plots of the widths and lengths ontop of the image](Example/scatter_plot.png)
 
 ![Histogram of dimensions](Example/histogram.png)
 
