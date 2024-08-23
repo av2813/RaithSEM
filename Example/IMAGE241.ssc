@@ -1,0 +1,27 @@
+[SLOWSCAN]
+Bitmap=IMAGE241.bmp
+LowerLeftUV=0.096531,5.468079
+UpperRightUV=0.136521,5.508069
+LocalOriginUV=0.116526,5.488074
+StageUV=0.116525,5.488073
+RotationUV=0
+[METADATA]
+User=AlexV
+Project=%UserRoot%PROJECT\ADMIN.DSK
+Date=2024/08/21
+Time=19:41:26
+Magnification=1000x
+Write field=100µm
+FoV=40.0µm
+Detector=SE2
+Focus/WD=9.781mm
+Probe Current=204.2pA
+Acc. Voltage=10.0kV
+Active Mode=10 kV 30 µm 10 mm (30 um aperture /)
+Position U=0.1165mm
+Position V=5.4881mm
+Sample=AV210824-SEM-JOOP-DT
+Point Average=4
+Average Type=Frame averaging
+Average Count=1
+Step Size=0.0100µm
