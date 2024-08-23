@@ -82,6 +82,17 @@ fig_sca = sem.plot_scatter(image, central_positions_x_nm, central_positions_y_nm
 plt.show()
 ```
 
+### Example images
+![The original raw bitmap](Example/IMAGE421.bmp)
+
+![The original raw bitmap](Example/main_image.png)
+
+![Thresholded images](Example/binary_image.png)
+
+
+
+![Histogram of dimensions](Example/histogram.png)
+
 ### Key Functions
 #### 1. `read_raithfile(folder, file_im, file_meta)`
 Loads an SEM image and its associated metadata.
