@@ -411,7 +411,7 @@ def min_area_bounding_shapes(image, contours, shape_type='rectangle', epsilon=0.
         centers = []
 
         fig, ax = plt.subplots(figsize=(6, 6))
-        ax.imshow(cv2.cvtColor(image, cv2.COLOR_BGR2RGB), origin='lower')
+        ax.imshow(image, origin='lower')
         ax.set_title(f'Bounding {shape_type}s')
 
         for contour in contours:
